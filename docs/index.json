@@ -1,0 +1,18 @@
+{
+  "providers": {
+    "palmapalermo/aws": {
+      "versions": {
+        "5.87.0": {
+          "protocols": ["5.0"],
+          "platforms": {
+            "linux_amd64": {
+              "filename": "terraform-provider-aws_5.87.0_linux_amd64",
+              "download_url": "https://github.com/palmapalermo/terraform-provider-aws/releases/download/v5.87.0/terraform-provider-aws_5.87.0_linux_amd64",
+              "shasum": "59845a1d944e4c26b6b60f6d37385600992bac9925d5d5e53001dac1f1a8b5c5"
+            }
+          }
+        }
+      }
+    }
+  }
+}
